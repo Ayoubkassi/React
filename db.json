@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Signal Traitment",
+      "day": "Monday 11:30 pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "React",
+      "day": "Monday 14:30 pm",
+      "reminder": true
+    },
+    {
+      "text": "Data Bases",
+      "day": "Monday 16:30 pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Fitness",
+      "day": "Today 20:00 pm",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}

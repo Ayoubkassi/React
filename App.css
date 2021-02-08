@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App{
+    max-width: 650px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid black;
+    min-height: 70vh;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    padding: 6px 18px;
+    font-weight: bold;
+}
+
+.Tasks{
+    margin-top: 16px;
+}
+
+.task {
+    padding: 5px 24px;
+    background-color:black;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.task h2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.reminder {
+    border-left:8px solid #13ec1e;
+}
+
+.forum{
+    margin-bottom: 10px;
+}
+
+.bara{
+    position: relative;
+}
+
+.checki{
+    position: absolute;
+    left: 40%;
+    size: 30px;
+
+}
